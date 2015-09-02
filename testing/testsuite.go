@@ -18,7 +18,7 @@ import (
 
 	"github.com/revel/revel"
 
-	"golang.org/x/net/websocket"
+	"github.com/golang/net/websocket"
 )
 
 type TestSuite struct {
